@@ -1,1 +1,1 @@
-## To do list app built with React, Firebase and Socket.io
+## To do list application Using React (Custom Hooks, Context), Firebase & React Testing Library.
