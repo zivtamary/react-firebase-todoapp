@@ -1,1 +1,1 @@
-## To do list application Using React (Custom Hooks, Context), Firebase & React Testing Library.
+## To do list application Using React, Firebase & React Testing Library.
